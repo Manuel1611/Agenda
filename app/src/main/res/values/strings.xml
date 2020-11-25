@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="cont_mainadd">Añadir</string>
+    <string name="cont_mainedit">Editar</string>
+    <string name="cont_maindelete">Eliminar</string>
+    <string name="cont_agenda">Agenda</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_apellidos">Apellidos</string>
+    <string name="hint_telefono">Teléfono</string>
+    <string name="hint_fechaNac">Nac. dd/mm/aaaa</string>
+    <string name="hint_localidad">Localidad</string>
+    <string name="hint_calle">Calle</string>
+    <string name="hint_numero">Número</string>
+    <string name="tvAñadirNuevo">Añadir nuevo contacto</string>
+    <string name="cont_atras">Atrás</string>
+    <string name="tv_introduce_editar">Introduce el número de teléfono de quien deseas modificar:</string>
+    <string name="cont_edit">Editar</string>
+    <string name="btBuscar">Buscar</string>
+    <string name="btEditar">Editar</string>
+    <string name="tv_editarContacto">Editar contacto</string>
+    <string name="tv_introduce_eliminar">Introduce el número de teléfono de quien deseas eliminar:</string>
+    <string name="btBorrarDelete">Borrar</string>
+    <string name="cont_borrar">Eliminar</string>
+    <string name="cont_alerta">Alerta</string>
+    <string name="tvCuidado">¡Cuidado!</string>
+    <string name="tv_apuntodeborrar">Estás a punto de eliminar un contacto. ¿Estás seguro?</string>
+    <string name="imgbt_cerrar">Cerrar</string>
+    <string name="tvAgendaContactos">Agenda de contactos</string>
+    <string name="btAcceder">Acceder</string>
+</resources>
